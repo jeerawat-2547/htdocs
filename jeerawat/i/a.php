@@ -1,6 +1,6 @@
 <!doctype html>
 <html>
-<head>
+<head> 
 <meta charset="utf-8">
 <title>จีรวัฒน์ ศักดิ์วงษ์ 66010914003</title>
 </head>

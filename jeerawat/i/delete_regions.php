@@ -9,4 +9,4 @@
     echo "window.location= 'a.php';";
     echo "</script>";
 
-?>
+?> 
